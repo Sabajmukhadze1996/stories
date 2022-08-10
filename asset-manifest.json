@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/stories/static/css/main.e597667c.css",
+    "main.js": "/stories/static/js/main.67df805c.js",
+    "static/media/ubani.png": "/stories/static/media/ubani.87a55ae618ab26c54123.png",
+    "static/media/brave.png": "/stories/static/media/brave.c48da479119652ded472.png",
+    "static/media/sunset.png": "/stories/static/media/sunset.37e1377c09f9ae2f889f.png",
+    "static/media/givi.png": "/stories/static/media/givi.5d9e74f41a7b90fd28b3.png",
+    "static/media/shadow.png": "/stories/static/media/shadow.aa6d499d24876786d57e.png",
+    "static/media/amirani.png": "/stories/static/media/amirani.e507d3df53b6600a5f85.png",
+    "static/media/amirani-1.png": "/stories/static/media/amirani-1.46db302ff28c7becc22c.png",
+    "static/media/fatherandson.png": "/stories/static/media/fatherandson.4297a035858a465a84d3.png",
+    "static/media/rigi.png": "/stories/static/media/rigi.a35f297116d9c97f9c53.png",
+    "static/media/state-university.png": "/stories/static/media/state-university.974c026a46d71ed508fb.png",
+    "static/media/family.png": "/stories/static/media/family.c90fa1c451a6289ccfe9.png",
+    "static/media/lado.png": "/stories/static/media/lado.648052dffe34baed5cfc.png",
+    "static/media/busstop.png": "/stories/static/media/busstop.e1f3e19f8cc71af1a6a4.png",
+    "static/media/mountain-1.png": "/stories/static/media/mountain-1.0938467923dd3be08622.png",
+    "static/media/raarxdeba.png": "/stories/static/media/raarxdeba.02215868ce5294c36301.png",
+    "static/media/eka.png": "/stories/static/media/eka.3317e7ce0444a10ed85d.png",
+    "static/media/church.png": "/stories/static/media/church.bf3e98256b44efd074ca.png",
+    "static/media/time.png": "/stories/static/media/time.efe5e5c83df3efe1d897.png",
+    "static/media/presentation.png": "/stories/static/media/presentation.848cd926197e7cf549f0.png",
+    "static/media/ojaxisqali.png": "/stories/static/media/ojaxisqali.d0a10da40a6d17f73534.png",
+    "index.html": "/stories/index.html",
+    "main.e597667c.css.map": "/stories/static/css/main.e597667c.css.map",
+    "main.67df805c.js.map": "/stories/static/js/main.67df805c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e597667c.css",
+    "static/js/main.67df805c.js"
+  ]
+}
