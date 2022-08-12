@@ -2,9 +2,9 @@ body, #root, .app {
   width: 100%;
   min-height: 100vh;
   overflow-x: hidden;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between; */
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url("./images/mountain-1.png");
   background-repeat: no-repeat;
@@ -14,7 +14,7 @@ body, #root, .app {
 }
 
 #main {
-    flex-grow: 1;
+    /* flex-grow: 1; */
     padding-top: 6rem;
     padding-bottom: 5rem;
 }
